@@ -6,6 +6,7 @@ public class Simple {
 		// TODO Auto-generated method stub
 
 		System.out.println("Indhu");
+		System.out.println("Easu");
 	}
 
 }
